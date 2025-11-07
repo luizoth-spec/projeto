@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    background-color: crimson;
+}
+footer p{
+    font-size: medium;
+}
+body{
+    background-color: aquamarine;
+}
+header h1{
+    color: blueviolet;
+
+}
+p{
+    background-color: brown;
+}
